@@ -294,7 +294,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.5.10"
+    version: "0.5.11"
   image_picker_windows:
     dependency: transitive
     description:
